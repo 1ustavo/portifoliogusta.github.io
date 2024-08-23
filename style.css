@@ -468,7 +468,7 @@ min-height: 750px;
 }
 .footer-img{
     margin-bottom: 15px;
-    width: 300px;
+    /* width: 300px; */
     justify-content:space-evenly;
     
 }
@@ -476,13 +476,13 @@ min-height: 750px;
     width: 40px;
 }
 .footer-rg{
-    width: 300px;
+    /* width: 300px; */
 }
 .text-footer{
     font-size: 14px;
-    width: 300px;
+    /* width: 300px; */
 }
 .footer-sociais{
-    width: 300px;
+    /* width: 300px; */
 }
 }
