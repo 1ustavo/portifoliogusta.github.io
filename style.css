@@ -352,7 +352,7 @@ p{
 
 
 /* RESPONSIVO */
-@media (max-width: 768px)
+@media (max-width: 576px)
  {
 #navegacao{
     max-width: 100%;
@@ -465,7 +465,7 @@ min-height: 750px;
 }
 .footer-img{
     margin-bottom: 15px;
-    width: 500px;
+    width: 300px;
     justify-content:space-evenly;
     
 }
@@ -477,9 +477,9 @@ min-height: 750px;
 }
 .text-footer{
     font-size: 14px;
-    width: 500px;
+    width: 300px;
 }
 .footer-sociais{
-    width: 500px;
+    width: 300px;
 }
 }
