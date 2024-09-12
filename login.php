@@ -9,6 +9,7 @@
 <body>
  
     <div class="formulariologin">
+        <form action="valida_login.php" method="get">
         <div class="nome">
             <label for="username"><p class="text-form">Login:</p></label>
             <input type="text" id="username" name="username"/>
@@ -16,12 +17,14 @@
           
           <div class="senha">
             <label for="pass"><p class="text-form">Password:</p></label>
-            <input type="password" id="pass" name="password" minlength="8" required/>
+            <input type="password" id="senha" name="password"/>
           </div>
           
           <div class="botao"><input class="botao-env" type="submit" value="Sign in"/></div>
+          
 
     </div>
+    </form>
     
 </body>
 </html>
